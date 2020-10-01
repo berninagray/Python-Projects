@@ -1,6 +1,4 @@
 # GrayP1
-# Programmer: Bernina Gray
-# Email: bgray11@cnm.edu
 # Date: 8 Sept 2020
 # Purpose: Provide user capability to calculate
 # volume of a square pyramid
